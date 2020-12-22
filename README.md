@@ -23,7 +23,7 @@ Linguagem utilizada: **Python 3**
     - Substituição de páginas
 - [process.py](process.py)
     - Estrutura do processo
-- [tests.py](process.py)
+- [tests.py](tests.py)
     - Testes de eficiência
 
 ### Shell
